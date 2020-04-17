@@ -52,7 +52,7 @@
     "legal_headline": "Legal",
     "logo_header_label": "With the support of",
     "navigation_header_back_button_label": "Navigate back",
-    "q_C0_comment": "Close contact with a confirmed case means:\n<ul><li>Face-to-face contact for longer than 15 minutes</li><li>Direct, physical contact (touching, shaking hands)</li><li>Being within 1 meters (safe distance suggestion from WHO) of the person for more than 15 minutes</li><li>Contact with or exchange of body fluids</li><li>Living in the same apartment</li></ul>\n\nChoose No if you have worn adequate protective measures (mask) on contact.",
+    "q_C0_comment": "Close contact with a confirmed case means:\n<ul><li>Face-to-face contact for longer than 15 minutes</li><li>Direct physical contact (shaking hands etc)</li><li>Being within 1 meters (safe distance suggestion from WHO) of the person for more than 15 minutes</li><li>Contact with or exchange of body fluids</li><li>Living in the same apartment</li></ul>\n\nChoose No if you have worn adequate protective measures (mask) on contact.",
     "q_C0_text": "Have you had close contact with a confirmed case?",
     "q_CZ_text": "What day was the last contact?",
     "q_D0_text": "Have you been diagnosed with chronic lung disease by a doctor?",
