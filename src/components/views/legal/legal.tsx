@@ -43,7 +43,7 @@ export class Legal {
               handleClick={() => this.history.push('/', {})}
             />
           </div>
-          <div class="legal__content u-text-align--left" slot="card-content">
+          <div class="legal__content u-text-align--right" slot="card-content">
             <p innerHTML={i18next.t('legal_first_paragraph')} />
           </div>
         </d4l-card>

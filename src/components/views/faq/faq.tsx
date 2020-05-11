@@ -43,7 +43,7 @@ export class Faq {
               handleClick={() => this.history.push('/', {})}
             />
           </div>
-          <div class="faq__content u-text-align--left" slot="card-content">
+          <div class="faq__content u-text-align--right" slot="card-content">
             <p innerHTML={i18next.t('faq_content')} />
           </div>
         </d4l-card>

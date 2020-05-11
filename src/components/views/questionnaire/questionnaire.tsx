@@ -224,7 +224,7 @@ export class Questionnaire {
                 <d4l-linear-progress data-test="progressBar" value={progress} />
               </div>
               <div
-                class="questionnaire__content u-padding-vertical--medium u-text-align--left"
+                class="questionnaire__content u-padding-vertical--medium u-text-align--right"
                 slot="card-content"
               >
                 <fieldset>

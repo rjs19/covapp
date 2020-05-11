@@ -31,7 +31,7 @@ export class Disclaimer {
             <h2>{i18next.t('disclaimer_headline')}</h2>
           </div>
           <div
-            class="disclaimer__content u-text-align--left u-padding-bottom--normal"
+            class="disclaimer__content u-text-align--right u-padding-bottom--normal"
             slot="card-content"
           >
             <p innerHTML={i18next.t('disclaimer_paragraph_1')} />

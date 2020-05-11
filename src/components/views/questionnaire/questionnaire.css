@@ -15,6 +15,11 @@
 
 .questionnaire input[type='radio']:checked + label::after {
   background-color: var(--c-gray) !important;
+  right: 21px;
+}
+
+.questionnaire input[type='checkbox']:checked + label::after {
+  right: 20px;
 }
 
 d4l-button .button.sc-d4l-button:disabled {

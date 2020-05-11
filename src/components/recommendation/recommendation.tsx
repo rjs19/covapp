@@ -41,7 +41,7 @@ export class Recommendation {
             }}
           >
             <p
-              class="o-accordion-headline u-text-align--left"
+              class="o-accordion-headline u-text-align--right"
               slot="accordion-header"
             >
               {i18next.t('recommendation_information_hotlines_headline')}
@@ -64,7 +64,7 @@ export class Recommendation {
               }}
             >
               <p
-                class="o-accordion-headline u-text-align--left"
+                class="o-accordion-headline u-text-align--right"
                 slot="accordion-header"
               >
                 {i18next.t('recommendation_telemedicine_headline')}

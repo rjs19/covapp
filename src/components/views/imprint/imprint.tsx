@@ -43,7 +43,7 @@ export class Imprint {
               handleClick={() => this.history.push('/', {})}
             />
           </div>
-          <div class="imprint__content u-text-align--left" slot="card-content">
+          <div class="imprint__content u-text-align--right" slot="card-content">
             <p innerHTML={i18next.t('imprint_content')} />
           </div>
         </d4l-card>

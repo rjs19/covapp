@@ -43,7 +43,7 @@ export class DataPrivacy {
               handleClick={() => this.history.push('/', {})}
             />
           </div>
-          <div class="data_privacy__content u-text-align--left" slot="card-content">
+          <div class="data_privacy__content u-text-align--right" slot="card-content">
             <p innerHTML={i18next.t('data_privacy_content')} />
           </div>
         </d4l-card>

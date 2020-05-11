@@ -68,7 +68,7 @@ export class Start {
             <h1 class="start__headline-1">CovApp</h1>
             <h2 class="start__headline-2">{i18next.t('start_headline')}</h2>
           </div>
-          <div class="start__content u-text-align--left" slot="card-content">
+          <div class="start__content u-text-align--right" slot="card-content">
             <ul class="u-no-margin-top u-padding-bottom--normal">
               <li>{i18next.t('start_paragraph_1_option_1')}</li>
               <li>{i18next.t('start_paragraph_1_option_2')}</li>
