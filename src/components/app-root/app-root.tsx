@@ -151,7 +151,7 @@ export class AppRoot {
             <stencil-route-link
               url="/"
               anchorTitle="Home link"
-              anchorClass="u-display-block c-logo"
+              anchorClass="u-flex-left c-logo"
             >
               <h1>CovApp</h1>
             </stencil-route-link>
@@ -159,7 +159,7 @@ export class AppRoot {
           <d4l-language-switcher
             languages={LANGUAGES}
             activeLanguage={language}
-            class="u-margin-left--auto"
+            class="u-margin-right--auto"
           />
         </header>
         <main>

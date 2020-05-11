@@ -78,6 +78,10 @@
   margin-left: auto;
 }
 
+.u-margin-right--auto {
+  margin-right: auto;
+}
+
 .u-flex-center {
   display: flex;
   align-items: center;
@@ -93,4 +97,8 @@
   width: 1px;
   height: 1px;
   white-space: nowrap;
+}
+.u-flex-left {
+  display: flex;
+  flex-direction: row;
 }
